@@ -19,5 +19,4 @@ The config vars are set using foreman so you need to create a .env file within t
 AWS_ACCESS_KEY=<my access key>
 AWS_SECRET_KEY=<my secret key>
 S3_BUCKET=<s3 bucket name>
-
 ```
